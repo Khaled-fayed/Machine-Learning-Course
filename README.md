@@ -38,7 +38,4 @@ from the former TA Ish Jain.
 
 The course material has been developed by several faculty including:
 * [Sundeep Rangan](http://wireless.engineering.nyu.edu/sundeep-rangan/), ECE, NYU (Main developer)
-* [Yao Wang](http://eeweb.poly.edu/~yao/), ECE, NYU
-* [Alyson K. Fletcher](http://www.stat.ucla.edu/~akfletcher/), Statistics, ECE, UCLA
-
-
+* [Danny Janani](https://dannyjanani.com), B.S. Computer Engineering
